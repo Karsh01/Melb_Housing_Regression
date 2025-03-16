@@ -154,10 +154,3 @@ print("Models have been saved successfully.")
        model = pickle.load(file)
    predictions = model.predict(X_test)
    ```
-
-## Contact
-For any inquiries, please reach out via email or GitHub.
-
----
-This README provides a complete guide on how the Melbourne Housing Price Prediction project is structured, the preprocessing steps taken, model training, and future improvements.
-
